@@ -1,1 +1,1 @@
-![output](/assets/output.png)
+![output](/src/assets/output.png)
